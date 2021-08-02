@@ -28,7 +28,7 @@ module.exports = {
       url: 'https://api.avax-test.network/ext/bc/C/rpc',
       gasPrice: 225000000000,
       chainId: 43113,
-      accounts: ["1483acaaa407e73297de13590723da747ed9faa651943ec8d6b1a213514b875b"]
+      accounts: ["xxx"]
     }
   }
 };
